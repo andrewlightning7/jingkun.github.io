@@ -10,6 +10,7 @@ I am a M.S. student in Computer Science at NLP2CT Lab, University of Macau. I am
 
 - **Poetry Generation:** constrained poetry generation, poem polishing
 
+<!--
 ## News
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
@@ -48,3 +49,4 @@ I am a M.S. student in Computer Science at NLP2CT Lab, University of Macau. I am
 - Conference Reviewers: NeurIPS 2020, CVPR 2020.
 - Journal Reviewers: T-PAMI, IJCV.
 
+-->
