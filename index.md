@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a M.S. student in Computer Science at NLP2CT Lab, University of Macau. I am supervised by [[Prof. Derek F. Wong][https://www.fst.um.edu.mo/personal/derek-wong/].
 
 ## Research Interests
 
