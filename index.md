@@ -59,5 +59,5 @@ I am a M.S. student in Computer Science at NLP2CT Lab, University of Macau. I am
 
 ## Educations
 - 2022 - Present: M.S. student in Computer Science at University of Macau
-- 2018 - 2022: B.S. in Computer Science from University of Macau
--- GPA: 3.5:4.0
+- 2018 - 2022: B.S. student in Computer Science from University of Macau
+	- GPA: 3.5:4.0
