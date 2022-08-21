@@ -50,3 +50,14 @@ I am a M.S. student in Computer Science at NLP2CT Lab, University of Macau. I am
 - Journal Reviewers: T-PAMI, IJCV.
 
 -->
+
+## Honors & Awards
+- Champion, IEEE Student Branch & IES Undergraduate Project Competition (2022)
+- Second Price, FST Dean&rsquo:s Final List of CIS (2022)
+- Outstanding Price, UM Mobile APP Development Competition (2019)
+- UMDF scholarship, University of Macau (2019)
+
+## Educations
+- 2022 - Present: M.S. student in Computer Science at University of Macau
+- 2018 - 2022: B.S. in Computer Science from University of Macau
+-- GPA: 3.5:4.0
