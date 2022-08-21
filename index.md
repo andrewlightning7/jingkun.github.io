@@ -6,11 +6,13 @@ layout: homepage
 
 I am a M.S. student in Computer Science at NLP2CT Lab, University of Macau. I am supervised by [Prof. Derek F. Wong](https://www.fst.um.edu.mo/personal/derek-wong/). My research interests include poetry generation. Previously, I was an B.S. student at UM, affiliated with the same research group.
 
+
+<!--
 ## Research Interests
 
 - **Poetry Generation:** constrained poetry generation, poem polishing
 
-<!--
+
 ## News
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
